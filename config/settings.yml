@@ -1,0 +1,4 @@
+plugins:
+  example_job_enabled:
+    default: true
+    client: true
